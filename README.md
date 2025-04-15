@@ -22,7 +22,7 @@ Para contribuir con este proyecto, sigua los siguientes pasos:
 
 Haga un "fork" del repositorio.
 Cree una rama para sus cambios: git checkout -b mi-nueva-caracteristica.
-Realice sus cambios y haga el "commit": git commit -am 'Agrega nueva característica'.
+Realice sus cambios y haga el "commit": git commit -am 'Agrege nueva característica'.
 Haga "push" a la rama: git push origin mi-nueva-caracteristica.
 Abra un "pull request" en GitHub.
 
